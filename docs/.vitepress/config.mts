@@ -5,7 +5,7 @@ export default defineConfig({
   title: "NCCU MITc Website",
   description: "A Good Site",
 
-  base: '/',
+  base: '/MITC-Web-vitepress/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
