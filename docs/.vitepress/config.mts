@@ -7,6 +7,9 @@ export default defineConfig({
     ['link',{rel:'icon',href:'/icon.png'}],
   ],
   description: "A Good Site",
+
+  base: '/MITC-Web-vitepress/',
+
   themeConfig: {
     //siteTitle: false,
     logo:'/icon.png',
