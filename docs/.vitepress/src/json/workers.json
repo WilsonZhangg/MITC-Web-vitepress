@@ -1,0 +1,44 @@
+{
+    "groups": [
+      {
+        "groupName": "累死組",
+        "members": [
+          {
+            "name": "Ｑ蛇",
+            "position": "社長",
+            "description": "早安",
+            "image": "https://avatars.githubusercontent.com/u/63530107?v=4"
+          },
+          {
+            "name": "ＷＪ",
+            "position": "副社長",
+            "description": "我愛工作",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Male_north_american_turkey_supersaturated.jpg"
+          }
+        ]
+      },
+      {
+        "groupName": "美術組",
+        "members": [
+            {
+                "name": "小陳",
+                "position": "美宣長",
+                "description": "我是小陳",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Male_north_american_turkey_supersaturated.jpg"
+              }
+        ]
+      },
+      {
+        "groupName": "教學組",
+        "members": [
+            {
+                "name": "宏都拉斯",
+                "position": "教學長",
+                "description": "擅長教 Python",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Male_north_american_turkey_supersaturated.jpg"
+              }
+        ]
+      }
+    ]
+  }
+  
