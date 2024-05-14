@@ -1,0 +1,10 @@
+.vitepress-navbar .navbar-logo {
+    display: inline-block;
+    width: 40px; /* 根據您的 icon 尺寸調整 */
+    height: 40px; /* 根據您的 icon 尺寸調整 */
+    margin-right: 10px; /* 根據需要調整間距 */
+    background-image: url('/icon.png'); /* 指定 icon 圖片路徑 */
+    background-size: cover; /* 或者使用 contain 根據需求 */
+    background-repeat: no-repeat;
+  }
+  
