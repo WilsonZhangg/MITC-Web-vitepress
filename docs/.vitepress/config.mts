@@ -35,8 +35,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NCCU-MITC/MITC-Web-vitepress' },
       { icon: 'facebook', link: 'https://www.facebook.com/nccumit'},
-      { icon: 'discord', link: 'https://www.facebook.com/nccumit'},
-      { icon: 'instagram', link:'https://www.facebook.com/nccumit'},
+      { icon: 'discord', link: 'https://discord.gg/hNZEAAaw7W'},
+      { icon: 'instagram', link:'https://www.instagram.com/nccu_mitc/'},
     ]
   }
 })
