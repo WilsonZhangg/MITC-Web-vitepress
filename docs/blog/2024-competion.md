@@ -1,11 +1,14 @@
 ---
-title: "2024 數據分析競賽"
+title: "2024 數據分析競賽回顧"
 description: "This is a description of my first blog post."
-image: "https://as2.ftcdn.net/v2/jpg/05/62/00/63/1000_F_562006361_m7TWdjygckwKBT7UG8IpE4MiIdLF7zA9.jpg"
+image: "https://lh3.googleusercontent.com/pw/AP1GczN1PdLjTHVAjajedpuq3Rw4Wn_F4Ye8ubxwrcm7tyYziqil8QEFpY_Q_iMaHhKV-vhcYAo6MqpATtFjteMi9hrQ7Mac4oaoluY2o8TG5QBHoVtsAwF6vmheQn1rwe72hWjcQNWAk3Y1_1EQnzlxPF3y=w2706-h2030-s-no-gm?authuser=0"
 date: "2024-06-04"
 ---
 
 
-# 安安這邊是個簡單的測試
+# 2024 數據分析競賽
 
-AAAAAA
+
+
+
+更多當天花絮：[Google 相簿](https://photos.app.goo.gl/YxvSnsvYHV7Kraut9)
