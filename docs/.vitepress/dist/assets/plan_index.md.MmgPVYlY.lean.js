@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.B5WKYnih.js";const m=JSON.parse('{"title":"本學期規劃","description":"","frontmatter":{},"headers":[],"relativePath":"plan/index.md","filePath":"plan/index.md"}'),o={name:"plan/index.md"},n=r("",6),i=[n];function d(h,l,s,c,_,p){return t(),e("div",null,i)}const f=a(o,[["render",d]]);export{m as __pageData,f as default};
