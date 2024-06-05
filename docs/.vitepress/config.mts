@@ -5,6 +5,8 @@ export default defineConfig({
   title: "NCCU MITc",
   head: [
     ['link',{rel:'icon',href:'/icon.png'}],
+    ['meta', { name: 'keywords', content: '數理資訊社, 政大數理資訊社, MITC, NCCU-MITC, Pyday' }],
+    ['meta', { name: 'description', content: '政大數理資訊社官網' }],
   ],
   description: "A Good Site",
 
