@@ -6,6 +6,7 @@ title: Home
 <script setup>
 import Banner from '.vitepress/components/Banner.vue'
 import AnnounceCards from '.vitepress/components/AnnounceCards.vue';
+import GoogleCalendar from '.vitepress/components/GoogleCalendar.vue';
 </script>
 
 <Banner />
@@ -25,6 +26,10 @@ import AnnounceCards from '.vitepress/components/AnnounceCards.vue';
 
 <AnnounceCards />
 
+
+# Calendar
+
+<GoogleCalendar />
 
 # Photos
 
