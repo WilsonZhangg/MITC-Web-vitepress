@@ -18,9 +18,9 @@ export default defineConfig({
       { text: '首頁', link: '/' },
       { text: '關於我們', link: '/about-us/' },
       { text: '幹部名單', link: '/workerlist/'},
-      { text: '本學期規劃', link:'/plan/'},
+      { text: '社課與專案', link:'/plan/'},
       { text: '聯絡我們', link:'/contact/'},
-      { text: 'Blog', link:'/blog/' }
+      { text: 'Blog', link:'/blog' }
     ],
 
     // sidebar: [
