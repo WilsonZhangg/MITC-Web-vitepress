@@ -7,6 +7,7 @@ export default defineConfig({
     ['link',{rel:'icon',href:'/icon.png'}],
     ['meta', { name: 'keywords', content: '數理資訊社, 政大數理資訊社, MITC, NCCU-MITC, Pyday' }],
     ['meta', { name: 'description', content: '政大數理資訊社官網' }],
+    ['meta', { name: 'google-site-verification', content:'xwL8a9NV2cxXJFvIs7jO-r717PzvMiHIjCJAl6VB7cg'} ]
   ],
   description: "A Good Site",
 
