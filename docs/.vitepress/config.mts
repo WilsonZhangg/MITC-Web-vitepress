@@ -22,7 +22,7 @@ export default defineConfig({
       { text: '關於我們', link: '/about-us/' },
       { text: '幹部名單', link: '/workerlist/'},
       { text: '社課與專案', link:'/plan/'},
-      { text: '聯絡我們', link:'/contact/'},
+      { text: '教學教材', link:'/teach'},
       { text: 'Blog', link:'/blog' }
     ],
 
@@ -41,6 +41,11 @@ export default defineConfig({
       { icon: 'facebook', link: 'https://www.facebook.com/nccumit'},
       { icon: 'discord', link: 'https://discord.gg/hNZEAAaw7W'},
       { icon: 'instagram', link:'https://www.instagram.com/nccu_mitc/'},
-    ]
+    ],
+    footer:{
+      message:'聯絡我們: <a href="nccumitc@gmail.com">nccumitc@gmail.com</a> ',
+      //copyright:'AAAAA'
+
+    }
   }
 })
