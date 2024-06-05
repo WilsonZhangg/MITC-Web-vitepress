@@ -3,6 +3,10 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import busuanzi from 'busuanzi.pure.js'
+import { inBrowser } from 'vitepress'
+
+
 
 export default {
   extends: DefaultTheme,
@@ -12,6 +16,12 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
+    if (inBrowser) {
+      router.onAfterRouteChanged = () => {
+        busuanzi.fetch()
+      }
+    
+  }
     // ...
   }
 } satisfies Theme

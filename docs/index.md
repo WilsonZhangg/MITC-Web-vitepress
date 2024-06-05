@@ -7,6 +7,7 @@ title: Home
 import Banner from '.vitepress/components/Banner.vue'
 import AnnounceCards from '.vitepress/components/AnnounceCards.vue';
 import GoogleCalendar from '.vitepress/components/GoogleCalendar.vue';
+import Calc from '.vitepress/components/Calc.vue'
 </script>
 
 <Banner />
@@ -35,3 +36,4 @@ import GoogleCalendar from '.vitepress/components/GoogleCalendar.vue';
 
 
 
+<Calc />
