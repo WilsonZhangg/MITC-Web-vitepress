@@ -80,4 +80,8 @@ export default {
     flex: 0 1 calc(100% - 10px); /* 每行一個成員 */
   }
 }
+<<<<<<< HEAD
 </style>
+=======
+</style>
+>>>>>>> upstream/branch_wei_1
