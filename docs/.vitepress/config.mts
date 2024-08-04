@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import ClubLeader from 'docs\.vitepress\components\ClubWorker.vue';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
